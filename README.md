@@ -4,8 +4,6 @@
 
 ### Premium navbar experience with real-time search, notification system & glass-morphism design
 
-[Live Demo](#) · [Report Bug](#) · [Request Feature](#)
-
 </div>
 
 ---
